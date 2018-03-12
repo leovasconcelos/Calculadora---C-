@@ -1,0 +1,15 @@
+c:\users\ifsp-matriz\documents\visual studio 2013\Projects\frmCalculadora\frmCalculadora\bin\Debug\frmCalculadora.exe.config
+c:\users\ifsp-matriz\documents\visual studio 2013\Projects\frmCalculadora\frmCalculadora\bin\Debug\frmCalculadora.exe
+c:\users\ifsp-matriz\documents\visual studio 2013\Projects\frmCalculadora\frmCalculadora\bin\Debug\frmCalculadora.pdb
+c:\users\ifsp-matriz\documents\visual studio 2013\Projects\frmCalculadora\frmCalculadora\obj\Debug\frmCalculadora.csprojResolveAssemblyReference.cache
+c:\users\ifsp-matriz\documents\visual studio 2013\Projects\frmCalculadora\frmCalculadora\obj\Debug\frmCalculadora.Properties.Resources.resources
+c:\users\ifsp-matriz\documents\visual studio 2013\Projects\frmCalculadora\frmCalculadora\obj\Debug\frmCalculadora.csproj.GenerateResource.Cache
+c:\users\ifsp-matriz\documents\visual studio 2013\Projects\frmCalculadora\frmCalculadora\obj\Debug\frmCalculadora.exe
+c:\users\ifsp-matriz\documents\visual studio 2013\Projects\frmCalculadora\frmCalculadora\obj\Debug\frmCalculadora.pdb
+c:\users\ifsp-matriz\documents\visual studio 2013\Projects\frmCalculadora\frmCalculadora\obj\Debug\frmCalculadora.frmCalculadora.resources
+I:\lp1a2\frmCalculadora\frmCalculadora\bin\Debug\frmCalculadora.exe.config
+I:\lp1a2\frmCalculadora\frmCalculadora\obj\Debug\frmCalculadora.exe
+I:\lp1a2\frmCalculadora\frmCalculadora\obj\Debug\frmCalculadora.pdb
+E:\lp1a2\frmCalculadora\frmCalculadora\bin\Debug\frmCalculadora.exe.config
+E:\lp1a2\frmCalculadora\frmCalculadora\obj\Debug\frmCalculadora.exe
+E:\lp1a2\frmCalculadora\frmCalculadora\obj\Debug\frmCalculadora.pdb
